@@ -3,14 +3,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ammar</h1>
 <h3 align="center">A passionate flutter developer from Karachi, Pakistan.</h3>
 <img align="right" alt="Coding" width=400 src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=ammar-stack&label=Profile%20views&color=0e75b6&style=flat" alt="ammar-stack" /> </p>
 
 - 🌱 I’m currently learning **Flutter Framework**
 
 - 💬 Ask me about **C#, .Net framework, Frontend Web Development**
 
-- 📫 How to reach me **mohammadammar872@gmail.com**
+- 📫 How to reach me **ammarpantheon@gmail.com**
 
 - ⚡ Fun fact **I love to discover new technologies.**
 
